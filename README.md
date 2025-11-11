@@ -1,11 +1,11 @@
-# スペースこうかとんダー
+# スペースこうかとん
 
 ## 実行環境の必要条件
 * python >= 3.10
 * pygame >= 2.1
 
 ## ゲームの概要
-* 主人公の戦闘機が、迫りくる敵機や障害物をビームで粉砕し突き進むゲーム
+* こうかとんが、迫りくる敵機をビームで粉砕し突き進むゲーム
 * 参考URL：[サイトタイトル](https://www.nintendo.com/jp/games/feature/nintendo-classics/clv-p-hafcj/index.html)
 
 ## ゲームの遊び方
