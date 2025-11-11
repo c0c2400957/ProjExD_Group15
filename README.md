@@ -8,6 +8,8 @@
 * こうかとんが、迫りくる敵機をビームで粉砕し突き進むゲーム
 * 参考URL：[サイトタイトル](https://www.nintendo.com/jp/games/feature/nintendo-classics/clv-p-hafcj/index.html)
 
+* <img width="445" height="560" alt="kokaton_playing" src="https://github.com/user-attachments/assets/d7e51e76-e662-4fea-9cd0-398f31e4cd5f" />
+
 ## ゲームの遊び方
 * 矢印キーで機体を左右に移動する
 * スペースキー押下により発射するビームで敵機を攻撃する
